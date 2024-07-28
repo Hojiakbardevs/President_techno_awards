@@ -8,6 +8,10 @@ export default {
     extend: {
       fontFamily:{
         nunito: ['Nunito', 'sans-serif'],
+      },
+      colors:{
+        background:'#E8F5FF',
+        
       }
     },
   },

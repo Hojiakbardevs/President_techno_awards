@@ -9,3 +9,6 @@
     box-sizing: border-box;
     font-family: nunito;
 }
+html{
+    scroll-behavior: smooth;
+}
