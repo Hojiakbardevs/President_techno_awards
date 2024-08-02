@@ -65,7 +65,7 @@ export const Navbar = () => {
           <div className="px-8">
             <div className="flex flex-col gap-8 font-bold tracking-wider">
               <a href="#" className="border-l-4 border-gray-600">
-                Features
+                Featuresgh
               </a>
               <a href="#">Pricing</a>
               <a href="#">Download</a>
